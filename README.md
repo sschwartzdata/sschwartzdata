@@ -4,7 +4,7 @@
 
 - When I am not working on my data analysis skills I enjoy knitting, reading and hiking.
 
-- I’m currently learning python data analysis packages pandas, Numpy, SciPy and Matplolib. I am also currently expanding my knowlegde of SQL and R.
+- I am currently exploring the field of Data Science and have a particular interest in Machine Learning. 
 
 
 <!---
