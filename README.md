@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @sschwartzdata.
 
-- I’m interested in expanding and displaying my data analysis skills. 
+- I am a data analysis lead who is currently expanding my Data Engineering knowledge and skill set.
 
-- When I am not working on my data analysis skills I enjoy knitting, reading and hiking.
 
-- I am currently exploring the field of Data Science and have a particular interest in Machine Learning. 
+- When I am not working with data skills I enjoy knitting, reading and hiking.
 
 
 <!---
